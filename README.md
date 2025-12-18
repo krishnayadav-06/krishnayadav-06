@@ -24,13 +24,12 @@ I’ll try and make it work better.
 Figma is what I primarily use to desgin,
 and a bit of everything to implement
 
-Right now, I’m focused on getting really good at  
-**Data Structures & Algorithms**  
-→ [leetcode.com/u/kris-yadav](https://leetcode.com/u/kris-yadav/)
+Right now, I’m focused on getting really good at    
+[**Data Structures & Algorithms**](https://leetcode.com/u/kris-yadav/)
 
 
 
-### Fun Facts:
+**Fun Facts:**
 
 - Chances are my music taste is better than yours
 - I don't like coffe or tea
