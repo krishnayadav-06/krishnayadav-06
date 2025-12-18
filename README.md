@@ -14,4 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi
+Sup I'm Kris, a student and an engineer
+I desgin what I dont like and try and build stuff that I need.
+Figma is what I primarily use to desgin and a bit of everything to implement.
+Currently I'm trying to good at [Data structures ](https://leetcode.com/u/kris-yadav/)
+
+
+ 
