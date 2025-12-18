@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **krishnayadav-06/krishnayadav-06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,10 +12,31 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Sup I'm Kris, a student and an engineer
-I desgin what I dont like and try and build stuff that I need.
-Figma is what I primarily use to desgin and a bit of everything to implement.
-Currently I'm trying to good at [Data structures ](https://leetcode.com/u/kris-yadav/)
+## Hey there! 👋
+
+I'm **Kris**, a student and engineer.
+
+I (Re)-desgin what I despise and try and build stuff that I need.
+
+If something feels inefficient or poorly designed,  
+I’ll try and make it work better.
+
+Figma is what I primarily use to desgin,
+and a bit of everything to implement
+
+Right now, I’m focused on getting really good at  
+**Data Structures & Algorithms**  
+→ [leetcode.com/u/kris-yadav](https://leetcode.com/u/kris-yadav/)
+
+
+
+### Fun Facts:
+
+- Chances are my music taste is better than yours
+- I don't like coffe or tea
+- F1 is my favourite sport
+- Interests: design, engineering, learning how things work
+
 
 
  
