@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hey there! 👋
+<strong> Hey there! 👋</strong>
 
 I'm **Kris**, a student and engineer.
 
