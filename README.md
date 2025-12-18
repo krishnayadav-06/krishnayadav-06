@@ -18,8 +18,7 @@ I'm **Kris**, a student and engineer.
 
 I (Re)-desgin what I despise and try and build stuff that I need.
 
-If something feels inefficient or poorly designed,  
-I’ll try and make it work better.
+If something feels inefficient or poorly designed, I’ll try and make it work better.
 
 Figma is what I primarily use to desgin,
 and a bit of everything to implement
