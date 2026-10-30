@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 
 I'm **Kris**, a student and engineer.
 
-I (Re)-desgin what I despise and try and build stuff that I need.
+I (Re) - design what I despise and try and build stuff that I need.
 
-If something feels inefficient or poorly designed, I’ll try and make it work better.
+If something feels inefficient, I try and make it work better.
 
-Figma is what I primarily use to desgin,
+Figma is what I primarily use to design,
 and a bit of everything to implement
 
 Right now, I’m focused on getting really good at    
